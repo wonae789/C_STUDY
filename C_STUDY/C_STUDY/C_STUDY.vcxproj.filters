@@ -18,5 +18,8 @@
     <ClCompile Include="p361 PointerSwapFail.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p363 PointerSwapSuccess.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
