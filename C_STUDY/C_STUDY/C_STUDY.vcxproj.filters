@@ -21,5 +21,8 @@
     <ClCompile Include="p363 PointerSwapSuccess.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p379 2DArrNameAndArrPtr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
