@@ -27,5 +27,8 @@
     <ClCompile Include="p383 2DArrParam.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p399 ArgcArgv.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
