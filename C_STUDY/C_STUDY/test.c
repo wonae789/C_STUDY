@@ -9,4 +9,4 @@ int main(void)
 	printf("%d\n", sizeof(a));
 	printf("%d\n ", strlen(a));
 	return 0;
-} 
+}  
