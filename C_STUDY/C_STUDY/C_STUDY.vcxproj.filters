@@ -63,5 +63,8 @@
     <ClCompile Include="p517 TextCharFileCopy.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="p518 TextStringFileCopy.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
